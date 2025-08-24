@@ -23,7 +23,7 @@ footer: Copyright ©2025 - Blog.FerRory.net
 ---
 Welcome to my blog, where I share stories, insights, and reflections from over 15 years in the IT industry. 
 
-Rory Schellekens is an Engineer at Bright Cubes and previous worked for Ericsson.
+Rory Schellekens is an Engineer at Bright Cubes and previously worked at Ericsson.
 
 
 [default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
